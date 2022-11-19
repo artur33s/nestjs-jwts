@@ -8,7 +8,7 @@
   "trailingComma": "all",
   "bracketSameLine": true,
   "jsxBracketSameLine": false,
-  "printWidth": 140,
+  "printWidth": 100,
   "quoteProps": "as-needed",
   "jsxSingleQuote": false
 }
